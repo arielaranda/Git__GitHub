@@ -9,3 +9,5 @@ Mi nombre es Jorge, disfruta el curso.
 la fecha es 2023.
 
 Modificamos usuario y contraseña.
+
+Comenzamos con GIT..
