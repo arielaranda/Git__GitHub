@@ -15,3 +15,5 @@ Comenzamos con GIT..
 commit de prueba
 
 commit de prueba 2
+
+Se agrego un color en el borde.
