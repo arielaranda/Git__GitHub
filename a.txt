@@ -19,3 +19,5 @@ commit de prueba 2
 Se agrego un color en el borde.
 
 Se actualizo el texto central
+
+Se cambio el logo y el nombre del tooltip
