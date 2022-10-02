@@ -21,3 +21,5 @@ Se agrego un color en el borde.
 Se actualizo el texto central
 
 Se cambio el logo y el nombre del tooltip
+
+Se modifico el AppBar (Ya empieza con GitHub)
