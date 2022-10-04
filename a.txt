@@ -25,3 +25,5 @@ Se cambio el logo y el nombre del tooltip
 Se modifico el AppBar (Ya empieza con GitHub)
 
 Se cambio del contador empezando con 10 y aumento de 10 en 10
+
+Apenas empieza lo bueno.
